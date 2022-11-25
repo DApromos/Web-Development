@@ -1,0 +1,27 @@
+.request-button {
+  background: #32d167;
+  background-image: -webkit-linear-gradient(top, #32d167, #2bb8d5);
+  background-image: -moz-linear-gradient(top, #32d167, #2bb8d5);
+  background-image: -ms-linear-gradient(top, #32d167, #2bb8d5);
+  background-image: -o-linear-gradient(top, #32d167, #2bb8d5);
+  background-image: linear-gradient(to bottom, #32d167, #2bb8d5);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  padding: 10px 35px 10px 35px;
+  margin-left: 300px;
+  text-decoration: none;
+  border: 0;
+}
+
+.request-button {
+  background: #82f0a5;
+  background-image: -webkit-linear-gradient(top, #82f0a5, #66ded8);
+  background-image: -moz-linear-gradient(top, #82f0a5, #66ded8);
+  background-image: -ms-linear-gradient(top, #82f0a5, #66ded8);
+  background-image: -o-linear-gradient(top, #82f0a5, #66ded8);
+  background-image: linear-gradient(to bottom, #82f0a5, #66ded8);
+  text-decoration: none;
+}
